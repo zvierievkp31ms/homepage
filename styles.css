@@ -157,12 +157,12 @@
     text-align: justify;
   }
   
-  .skills__header {
+  .timeline__header, .skills__header {
     color: var(--secondary-text-color);
     text-align: center;
     margin-bottom: 15px;
   }
-  
+
   .skills__text {
     color: var(--secondary-text-color);
     text-align: justify;
@@ -212,7 +212,7 @@
     margin-bottom: 10px;
   }
   
-  .experiences__company-project-responsibilities {
+  .timeline__content, .experiences__company-project-responsibilities {
     color: var(--secondary-text-color);
     padding-left: 20px;
   }
@@ -261,3 +261,4 @@
   .additional-info__languages-item {
     color: var(--secondary-text-color);
   }
+
